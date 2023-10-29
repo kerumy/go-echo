@@ -1,0 +1,26 @@
+[
+  {
+    "UserId": 1,
+    "Id": 101,
+    "Title": "Post 1",
+    "Body": "This is the body of post 1"
+  },
+  {
+    "UserId": 1,
+    "Id": 102,
+    "Title": "Post 2",
+    "Body": "This is the body of post 2"
+  },
+  {
+    "UserId": 2,
+    "Id": 201,
+    "Title": "Post 3",
+    "Body": "This is the body of post 3"
+  },
+  {
+    "UserId": 3,
+    "Id": 301,
+    "Title": "Post 4",
+    "Body": "This is the body of post 4"
+  }
+]
